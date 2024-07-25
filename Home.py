@@ -1,7 +1,7 @@
 import streamlit as st
 st.markdown('Desenvolvido por [Asimov Academy](http://asimov.academy)')
 
-from pages import tabelas
+from Pages import tabelas
 st.markdown('# Bem vindo ao analisador de vendas')
 
 st.divider()
